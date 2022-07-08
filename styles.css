@@ -75,7 +75,7 @@ ul {
 
 ul li a {
     display: flex;
-    height: 53px;
+    height: 33px;
     align-items: center;
     justify-content: center;
     background: var(--primary-color);
