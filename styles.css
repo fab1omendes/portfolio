@@ -22,10 +22,10 @@ body.dark-blue {
 }
 
 body.dark {
-    --bg-color: #757575;
+    --bg-color: #252525;
     --text-color: #FFFFFF;
-    --primary-color: #414141;
-    --primary-color-dark: black;
+    --primary-color: #464646;
+    --primary-color-dark: rgb(95, 93, 93);
 
 }
 
